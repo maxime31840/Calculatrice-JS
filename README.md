@@ -14,4 +14,5 @@
 **Prérequis**
 
 Node.js (version 12 ou supérieure) pour exécuter ce projet.
+
 prompt-sync (module Node.js) pour permettre à l'utilisateur d'entrer des valeurs via la console.
